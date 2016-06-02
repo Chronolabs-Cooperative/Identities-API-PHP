@@ -1,0 +1,4 @@
+default|29|xoopscrc|sessionid|All purpose general session identity hash
+asp|9|xoopscrc|aspsessionid|ASP System session identity hash
+php|32|xoopscrc|phpsessionid|PHP System session identity hash
+java|48|xoopscrc|jsessionid|Java/Javascript System session identity hash
